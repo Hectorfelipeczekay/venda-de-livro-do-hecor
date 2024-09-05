@@ -10,7 +10,7 @@ body {
 }
 .capa-livro{
     display: flex;
-    justify-content: center;
+    justify-content: end;
     align-items: end;
     width: 5%;
     padding: 5%;
