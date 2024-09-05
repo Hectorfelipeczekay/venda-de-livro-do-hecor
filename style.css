@@ -12,6 +12,7 @@ body {
     display: flex;
     justify-content: end;
     align-items: end;
-    width: 5%;
-    padding: 5%;
+    width: 20px;
+    padding: 20px;
+    margin: 10px;
 }
