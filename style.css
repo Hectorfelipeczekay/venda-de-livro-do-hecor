@@ -8,3 +8,10 @@
 body {
     background-color: display: color: overflow: display: 
 }
+.capa-livro{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    width: 20%;
+    padding: 10%;
+}
